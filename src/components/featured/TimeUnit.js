@@ -3,7 +3,7 @@ import Slide from "react-reveal/Slide";
 
 class TimeUnit extends Component {
   state = {
-    deadline: "Dec, 16, 2022",
+    deadline: "Dec, 16, 2025",
     days: "0",
     hours: "0",
     minutes: "0",
